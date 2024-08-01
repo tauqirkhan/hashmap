@@ -1,6 +1,6 @@
 #HashMap and SetMap
 
-\*\*To test them locally run below command with predefined scripy
+**To test them locally run below command with predefined scripy**
 
 `node main.js`
 
